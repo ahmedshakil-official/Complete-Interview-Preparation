@@ -1,6 +1,3 @@
-
-/*
-
 Is Array Sorted
 EasyAccuracy: 31.45%Submissions: 24K+Points: 2
 Given an array a[ ] of size N. The task is to check if array is sorted or not. A sorted array can either be increasingly sorted or decreasingly sorted. Also consider duplicate elements to be sorted.
@@ -27,7 +24,8 @@ Constraints:
 1 <= N <= 106
 1 <= a[i] <= 106
 
-*/
+
+
 //User function Template for Java
 
 
